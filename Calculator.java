@@ -19,10 +19,5 @@ public class Calculator{
         System.out.println("Division:" +division);
 
         scanner.close();
-        
-
-
-
-
     }
 }
